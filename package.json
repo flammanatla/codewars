@@ -1,0 +1,16 @@
+{
+  "name": "codewars-solutions",
+  "version": "0.1.0",
+  "description": "",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "dev": "live-server",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "live-server": "^1.1.0"
+  }
+}
